@@ -48,6 +48,18 @@ implementation 'com.android.support:design:28.0.0-rc01'
 
 </android.support.v4.widget.DrawerLayout>
 ```
+### Sample Screenshot with only Menu (app:menu="@menu/my_nav_menu" in NavigationView
+
+<img src="https://image.ibb.co/io2iSe/Screenshot_1535048007.png" alt="NavigationDrawer_Screenshot" width="300"/>
+
+### Sample Screenshot with only Header (app:headerLayout="@layout/my_header") in NavigationView
+
+<img src="https://image.ibb.co/ggVWDK/Screenshot_1535048128.png" alt="NavigationDrawer_Screenshot" width="300"/>
+
+### Sample Screenshot with both Menu & Header in NavigationView)
+
+<img src="https://image.ibb.co/h3EBfz/Screenshot_1535047699.png" alt="NavigationDrawer_Screenshot" width="300"/>
+
 ### Adding Menu Items for NavigationDrawer under res/layout/my_nav_menu.xml
 
 ```xml
